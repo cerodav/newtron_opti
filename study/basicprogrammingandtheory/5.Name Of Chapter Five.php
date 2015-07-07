@@ -1,0 +1,4 @@
+<?php
+$content=<<<EOT
+EOT;
+?>
